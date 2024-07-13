@@ -61,5 +61,13 @@ namespace Employee_Management_API.Controllers
             await _repository.DeleteEmployee(id);
             return NoContent();
         }
+
+        [HttpGet]
+        [Route("~/api/Departments")]
+        public async Task<ActionResult<IEnumerable<Department>>> GetDepartments()
+        {
+            var departments = await _repository.GetAllDepartments();
+            return Ok(departments);
+        }
     }
 }

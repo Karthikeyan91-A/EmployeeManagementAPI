@@ -15,5 +15,7 @@ namespace Employee_Management_Repository.Interfaces
         Task UpdateEmployee(Employee employee);
         Task DeleteEmployee(int id);
 
+        Task<IEnumerable<Department>> GetAllDepartments();
+
     }
 }

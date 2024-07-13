@@ -46,5 +46,11 @@ namespace Employee_Management_Repository.Repository
             _context.Entry(employee).State = EntityState.Modified;
             await _context.SaveChangesAsync();
         }
+
+        public async Task<IEnumerable<Department>> GetAllDepartments()
+        {
+            return await _context.Departments
+                .ToListAsync();
+        }
     }
 }
