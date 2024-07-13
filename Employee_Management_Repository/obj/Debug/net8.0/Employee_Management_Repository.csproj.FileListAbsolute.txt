@@ -49,3 +49,4 @@ C:\Users\hr\source\repos\Test_Repo\EmployeeManagementAPI\Employee_Management_Rep
 C:\Users\hr\source\repos\Test_Repo\EmployeeManagementAPI\Employee_Management_Repository\obj\Debug\net8.0\Employee_Management_Repository.pdb
 C:\Users\hr\source\repos\Test_Repo\EmployeeManagementAPI\Employee_Management_Repository\obj\Debug\net8.0\Employee_Management_Repository.genruntimeconfig.cache
 C:\Users\hr\source\repos\Test_Repo\EmployeeManagementAPI\Employee_Management_Repository\obj\Debug\net8.0\ref\Employee_Management_Repository.dll
+C:\Users\hr\source\repos\Test_Repo\EmployeeManagementAPI\Employee_Management_Repository\obj\Debug\net8.0\Employee_Management_Repository.sourcelink.json
