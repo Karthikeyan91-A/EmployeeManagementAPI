@@ -1,0 +1,19 @@
+version: '3.4'
+
+services:
+  employee_management_api:
+    build:
+      context: .
+      dockerfile: Employee_Management_API\Dockerfile
+    ports:
+       - "8080:80"
+    depends_on:
+      - db 
+  db:
+    image: mcr.microsoft.com/mssql/server:2022-latest  # Use the SQL Server 2019 image
+    environment:
+      SA_PASSWORD: "#devtest123#"  # Set your desired SQL Server SA password
+      ACCEPT_EULA: "Y"  # Accept the SQL Server license agreement
+    ports:
+      - "1433:1433" 
+     

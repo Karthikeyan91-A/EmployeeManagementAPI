@@ -206,6 +206,7 @@ C:\Users\hr\source\repos\Test_Repo\EmployeeManagementAPI\Employee_Management_API
 C:\Users\hr\source\repos\Test_Repo\EmployeeManagementAPI\Employee_Management_API\obj\Debug\net8.0\Employee_Management_API.csproj.CoreCompileInputs.cache
 C:\Users\hr\source\repos\Test_Repo\EmployeeManagementAPI\Employee_Management_API\obj\Debug\net8.0\Employee_Management_API.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\hr\source\repos\Test_Repo\EmployeeManagementAPI\Employee_Management_API\obj\Debug\net8.0\Employee_Management_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hr\source\repos\Test_Repo\EmployeeManagementAPI\Employee_Management_API\obj\Debug\net8.0\Employee_Management_API.sourcelink.json
 C:\Users\hr\source\repos\Test_Repo\EmployeeManagementAPI\Employee_Management_API\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\hr\source\repos\Test_Repo\EmployeeManagementAPI\Employee_Management_API\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\hr\source\repos\Test_Repo\EmployeeManagementAPI\Employee_Management_API\obj\Debug\net8.0\staticwebassets\msbuild.Employee_Management_API.Microsoft.AspNetCore.StaticWebAssets.props
@@ -220,4 +221,3 @@ C:\Users\hr\source\repos\Test_Repo\EmployeeManagementAPI\Employee_Management_API
 C:\Users\hr\source\repos\Test_Repo\EmployeeManagementAPI\Employee_Management_API\obj\Debug\net8.0\Employee_Management_API.pdb
 C:\Users\hr\source\repos\Test_Repo\EmployeeManagementAPI\Employee_Management_API\obj\Debug\net8.0\Employee_Management_API.genruntimeconfig.cache
 C:\Users\hr\source\repos\Test_Repo\EmployeeManagementAPI\Employee_Management_API\obj\Debug\net8.0\ref\Employee_Management_API.dll
-C:\Users\hr\source\repos\Test_Repo\EmployeeManagementAPI\Employee_Management_API\obj\Debug\net8.0\Employee_Management_API.sourcelink.json
