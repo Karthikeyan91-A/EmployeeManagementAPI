@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\hr\\source\\repos\\Test_Repo\\EmployeeManagementAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7C13135F-518E-4E6E-BE2E-F8CC4F19F698}|Solution Items{7C13135F-518E-4E6E-BE2E-F8CC4F19F698}|C:\\Users\\hr\\source\\repos\\Test_Repo\\EmployeeManagementAPI\\Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7C13135F-518E-4E6E-BE2E-F8CC4F19F698}|Solution Items{7C13135F-518E-4E6E-BE2E-F8CC4F19F698}|solutionrelative:Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CEA90A5-03BC-438A-BD97-5F58E01FC8EE}|Employee_Management_API\\Employee_Management_API.csproj|c:\\users\\hr\\source\\repos\\test_repo\\employeemanagementapi\\employee_management_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CEA90A5-03BC-438A-BD97-5F58E01FC8EE}|Employee_Management_API\\Employee_Management_API.csproj|solutionrelative:employee_management_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5CEA90A5-03BC-438A-BD97-5F58E01FC8EE}|Employee_Management_API\\Employee_Management_API.csproj|c:\\users\\hr\\source\\repos\\test_repo\\employeemanagementapi\\employee_management_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{5CEA90A5-03BC-438A-BD97-5F58E01FC8EE}|Employee_Management_API\\Employee_Management_API.csproj|solutionrelative:employee_management_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -15,15 +23,7 @@
       "RelativeMoniker": "D:0:0:{5CEA90A5-03BC-438A-BD97-5F58E01FC8EE}|Employee_Management_API\\Employee_Management_API.csproj|solutionrelative:employee_management_api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C13135F-518E-4E6E-BE2E-F8CC4F19F698}|Solution Items{7C13135F-518E-4E6E-BE2E-F8CC4F19F698}|C:\\Users\\hr\\source\\repos\\Test_Repo\\EmployeeManagementAPI\\Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{7C13135F-518E-4E6E-BE2E-F8CC4F19F698}|Solution Items{7C13135F-518E-4E6E-BE2E-F8CC4F19F698}|solutionrelative:Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5CEA90A5-03BC-438A-BD97-5F58E01FC8EE}|Employee_Management_API\\Employee_Management_API.csproj|c:\\users\\hr\\source\\repos\\test_repo\\employeemanagementapi\\employee_management_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5CEA90A5-03BC-438A-BD97-5F58E01FC8EE}|Employee_Management_API\\Employee_Management_API.csproj|solutionrelative:employee_management_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hr\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.20.1\\build\\Container.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
@@ -60,7 +60,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -68,20 +68,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Dockerfile",
               "DocumentMoniker": "C:\\Users\\hr\\source\\repos\\Test_Repo\\EmployeeManagementAPI\\Dockerfile",
               "RelativeDocumentMoniker": "Dockerfile",
               "ToolTip": "C:\\Users\\hr\\source\\repos\\Test_Repo\\EmployeeManagementAPI\\Dockerfile",
               "RelativeToolTip": "Dockerfile",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAVAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2024-07-19T18:50:41.134Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Microsoft.VisualStudio.Docker.Compose.targets",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
@@ -93,54 +93,55 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\hr\\source\\repos\\Test_Repo\\EmployeeManagementAPI\\Employee_Management_API\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Employee_Management_API\\Properties\\launchSettings.json",
               "ToolTip": "C:\\Users\\hr\\source\\repos\\Test_Repo\\EmployeeManagementAPI\\Employee_Management_API\\Properties\\launchSettings.json",
               "RelativeToolTip": "Employee_Management_API\\Properties\\launchSettings.json",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAAB4AAAAfAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAACMAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-07-17T17:41:38.286Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\hr\\source\\repos\\Test_Repo\\EmployeeManagementAPI\\Employee_Management_API\\appsettings.Development.json",
               "RelativeDocumentMoniker": "Employee_Management_API\\appsettings.Development.json",
               "ToolTip": "C:\\Users\\hr\\source\\repos\\Test_Repo\\EmployeeManagementAPI\\Employee_Management_API\\appsettings.Development.json",
               "RelativeToolTip": "Employee_Management_API\\appsettings.Development.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAaAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-07-17T16:11:00.994Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\hr\\source\\repos\\Test_Repo\\EmployeeManagementAPI\\Employee_Management_API\\appsettings.json",
               "RelativeDocumentMoniker": "Employee_Management_API\\appsettings.json",
               "ToolTip": "C:\\Users\\hr\\source\\repos\\Test_Repo\\EmployeeManagementAPI\\Employee_Management_API\\appsettings.json",
               "RelativeToolTip": "Employee_Management_API\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAA7AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-07-14T12:14:23.941Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\hr\\source\\repos\\Test_Repo\\EmployeeManagementAPI\\Employee_Management_API\\Program.cs",
               "RelativeDocumentMoniker": "Employee_Management_API\\Program.cs",
               "ToolTip": "C:\\Users\\hr\\source\\repos\\Test_Repo\\EmployeeManagementAPI\\Employee_Management_API\\Program.cs",
               "RelativeToolTip": "Employee_Management_API\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAB4AAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-14T12:14:18.286Z"
+              "WhenOpened": "2024-07-14T12:14:18.286Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",

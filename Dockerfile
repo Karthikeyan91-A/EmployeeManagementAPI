@@ -22,6 +22,7 @@ WORKDIR /app
 
 COPY --from=publish /app/publish .
 
+EXPOSE 8080
 
 ENTRYPOINT ["dotnet", "Employee_Management_API.dll"]
 
