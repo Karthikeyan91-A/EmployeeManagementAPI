@@ -24,6 +24,10 @@ COPY --from=publish /app/publish .
 
 EXPOSE 8080
 
+ENV ASPNETCORE_ENVIRONMENT=Development
+
+
+
 ENTRYPOINT ["dotnet", "Employee_Management_API.dll"]
 
 
